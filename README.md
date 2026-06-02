@@ -34,11 +34,7 @@ ai-ml-tutor-chatbot/
 ├── .env
 ├── .gitignore
 ├── README.md
-│
-├── prompts/
-├── services/
-├── utils/
-└── tests/
+
 ```
 
 ## Installation
